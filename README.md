@@ -3,7 +3,7 @@
 ## Hello world, I'm Juliana 👋🏼
 
 - 🔭 Estudante de Ciências da computação
-- 🌱 Atualmente no 3° período
+- 🌱 Atualmente no 4° período
 - 👯 Mais familiarizada com Front-end
 - 🤔 Em busca de estágio
 
