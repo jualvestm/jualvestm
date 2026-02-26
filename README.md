@@ -10,7 +10,7 @@
 ## Tools I know ✨
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,golang,python,sql" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,go,python,sql" />
 </p>
 
 
