@@ -1,20 +1,37 @@
-<img style="margin-top: 40px;" align="right" width="300" src="https://media.giphy.com/media/9lyuDkgZJ4OBO/giphy.gif?cid=ecf05e47zg8u5wvq1cf84fpk1cvhjr6k8tdhw64qvfqe4ik5&ep=v1_gifs_related&rid=giphy.gif&ct=g">
-<h1 align="center">Hello World! I'm Juliana</h1>
-<h3 align="center">A Back-end and Data Girl in Tech 👩🏻‍💻</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- HEADER ONDA -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=240&section=header&text=Juliana%20Alves&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<!-- TYPING -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8B5E3C&center=true&vCenter=true&width=600&lines=Backend+and+Data+girl;Building+cool+things+with+code"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jualvestm&show_icons=true&locale=en&layout=compact" alt="jualvestm" /></p>
+<!-- ABOUT + GIF -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jualvestm&show_icons=true&locale=en" alt="jualvestm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jualvestm&" alt="jualvestm" /></p>
 
-<div>
-  <a href="https://www.linkedin.com/in/juliana-alves-thomaz-b17437266/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
-</div>
+## Hello World! I'm Juliana ☕  
+
+<img align="right" src="https://media1.tenor.com/m/DzVrXGndb1gAAAAC/my-neighbor-totoro-totoro.gif" width="250"/>
+
+💻 Back-end and Data Girl in Tech  
+🌱 Aprendendo e construindo projetos todos os dias  
+✨ Apaixonada por backend, dados e resolver problemas  
+🚀 Em evolução constante na jornada dev  
+
+<br clear="right"/>
+
+
+
+☕ Languages and Tools
+--
+<p align="center">
+<img src="https://skillicons.dev/icons?i=go,python,java,js,html,css,git,mysql,react,gcp" />
+</p>
+
+<br><br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jualvestm&background=8B5E3C&ring=ffffff&fire=ffffff&currStreakLabel=E8D8C3&sideNums=E8D8C3&sideLabels=E8D8C3&dates=E8D8C3"/>
+</p>
