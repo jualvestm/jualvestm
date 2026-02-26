@@ -14,7 +14,7 @@
 </p>
 
 
-![Ju's GitHub stats](https://github-readme-stats.vercel.app/api?username=jualvestm)](https://github.com/jualvestm/github-readme-stats))
+![Ju's GitHub stats](https://github-readme-stats.vercel.app/api?username=jualvestm)](https://github.com/jualvestm/github-readme-stats)
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jualvestm&layout=compact)](https://github.com/jualvestm/github-readme-stats)
 
