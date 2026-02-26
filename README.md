@@ -4,17 +4,17 @@
 
 - 🔭 Estudante de Ciências da computação
 - 🌱 Atualmente no 6° período
-- 👯 Mais familiarizada com Front-end
-- 🤔 Em busca de estágio
+- 🧠 Mais familiarizada com Back-end e dados
+- ⭐ Engenheira de dados (estag) na Globo!
 
 ## Tools I know ✨
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,python,c" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,golang,python,sql" />
 </p>
 
 
-![Ju's GitHub stats](https://github-readme-stats.vercel.app/api?username=jualvestm&theme=dark&show_icons=true)
+![Ju's GitHub stats](https://github-readme-stats.vercel.app/api?username=jualvestm)](https://github.com/jualvestm/github-readme-stats))
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jualvestm&layout=compact)](https://github.com/jualvestm/github-readme-stats)
 
